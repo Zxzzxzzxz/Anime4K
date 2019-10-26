@@ -1,5 +1,5 @@
 # Anime4K
-
+这是个动画低分辨率转4k高清的实现
 Anime4K is a state-of-the-art*, open-source, high-quality real-time anime upscaling algorithm that can be implemented in any programming language.
 
 ![Thumbnail Image](results/Main.png?raw=true)
